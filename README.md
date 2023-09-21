@@ -1,4 +1,4 @@
-# nvim
+# yabai
 
 This is my personal `yabai` setup. To setup your `yabai` with these settings execute:
 
